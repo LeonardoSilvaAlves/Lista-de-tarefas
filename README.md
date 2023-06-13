@@ -20,6 +20,7 @@ Este é um projeto simples de Lista de Tarefas, onde os usuários podem adiciona
 2. Navegue até o diretório do projeto: cd lista-de-tarefas
 
 3. Abra o arquivo `index.html` no seu navegador preferido.
+4. ou abra em seu navegador https://leonardosilvaalves.github.io/Lista-de-tarefas/
 
 ## Personalização
 
